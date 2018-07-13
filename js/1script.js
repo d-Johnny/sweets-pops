@@ -24,7 +24,7 @@
 // }
 
 function showAlert(){
-  var myInput = document.getElementById('my_input_name');
+  var myInput = document.getElementById('mu_input_name');
   console.log('myInput', myInput);
   var inputValue = myInput.value;
   console.log('inputValue', inputValue);
